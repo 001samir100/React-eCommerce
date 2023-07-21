@@ -1,12 +1,14 @@
-import { Button } from "flowbite-react";
 import { HeaderNavbar } from "./components/HeaderNavbar";
+import FooterPage from "./components/footer/FooterPage";
+import Homepage from "./pages/home/Homepage";
 
 function App() {
 	return (
-		<>
+		<div>
 			<HeaderNavbar />
-			{/* <Button>Click me</Button> */}
-		</>
+			<Homepage />
+			<FooterPage />
+		</div>
 	);
 }
 
