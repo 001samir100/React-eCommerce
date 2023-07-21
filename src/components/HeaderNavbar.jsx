@@ -1,5 +1,5 @@
-import { Avatar, Button, Dropdown, Navbar, TextInput } from "flowbite-react";
-import { useEffect, useState } from "react";
+import { Dropdown } from "flowbite-react";
+import { useState } from "react";
 import { HiMenu } from "react-icons/hi";
 import { MdClose } from "react-icons/md";
 import { AiFillSetting } from "react-icons/ai";

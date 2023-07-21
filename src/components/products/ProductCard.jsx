@@ -22,10 +22,6 @@ const ProductCard = () => {
 						<BsCart4 className="mr-1 h-5 w-5" />
 						<p>Cart</p>
 					</Button>
-					{/* <ButtonComponent>
-						<BsCart4 className="mr-2 h-5 w-5" />
-						<p>Add to Cart</p>
-					</ButtonComponent> */}
 				</div>
 			</div>
 		</div>
